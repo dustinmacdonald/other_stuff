@@ -1,0 +1,1 @@
+This is a repository for my personal projects as I proceed through my Master of Science in Data Science program at Eastern University. I also expect to use it as a repository for code samples that I've found helpful and other errata.
